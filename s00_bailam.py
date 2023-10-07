@@ -15,5 +15,5 @@ hi('AI-BTX')
 output
 Hi AI-BTX
 """
-def hi(AI_BTX):
-  return f'Hi {AI_BTX}'
+def hi(name):
+  return f'Hi {name}'
